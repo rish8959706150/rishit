@@ -221,7 +221,7 @@ button {
     width: 100%;
     height: 100%;
     min-height: 650px;
-   background-color:#363945
+    background-image: url('../images/GRAPH.jpg');
     background-repeat: no-repeteat;
     background-position: center cenr;
     background-size: cover;
